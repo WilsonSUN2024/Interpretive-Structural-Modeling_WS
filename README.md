@@ -111,12 +111,3 @@ pip install pandas numpy openpyxl
 - Matrix must be square.
 - Non-binary values will cause an error.
 
-
----
-
-
-### 📬 Contact
-If you want to:
-- Add ISM diagrams
-- Integrate FISM (Fuzzy ISM)
-(Interpretive Structural Modeling) Implementation
